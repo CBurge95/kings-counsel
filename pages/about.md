@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/images/background.tiff"%} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html width="200" sections="About CollectionBuilder CSV;About the About Page" %}
 
 ## About CollectionBuilder CSV
 
