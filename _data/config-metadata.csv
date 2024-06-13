@@ -6,6 +6,4 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 attendees,Council Members,true,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
