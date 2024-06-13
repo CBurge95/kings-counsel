@@ -10,7 +10,7 @@ permalink: /rafe_sadler.html
 <div class="col-md-6">{% include feature/image.html objectid="images/sadler.jpg"%}</div>
 <div class="col-md-6">
 <div class="p-3" style="text-align:center;">
-<a href="{{ '/browse.html' | relative_url }}#Rafe Sadler" class="btn btn-primary">View Registers</a>
+<a href="{{ '/browse.html' | relative_url }}#Rafe Sadler" class="btn btn-custom">View Registers</a>
 </div>
 <h4>Role(s)</h4>
 
