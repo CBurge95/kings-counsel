@@ -1,9 +1,38 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Subjects,/subjects.html,
-Council Members,/members.html,
+Council Members,,
 Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
 About,/about.html,
+Browse,/browse.html,
+Thomas Audley,/thomas_audley.html,Council Members
+John Baker,/john_baker.html,Council Members
+Charles Brandon,/charles_brandon.html,Council Members
+Anthony Brown,/anthony_brown.html,Council Members
+Thomas Cheyney,/thomas_cheyney.html,Council Members
+Thomas Cranmer,/thomas_cranmer.html,Council Members
+Robert Dacre,/robert_dacre.html,Council Members
+John Dudley,/john_dudley.html,Council Members
+Henry FitzAlan,/henry_fitzalan.html,Council Members
+William FitzWilliam,/william_fitzwilliam.html,Council Members
+John Gage,/john_gage.html,Council Members
+Stephen Gardiner,/stephen_gardiner.html,Council Members
+Thomas Howard,/thomas_howard.html,Council Members
+William Kingston,/william_kingston.html,Council Members
+Edward Lee,/edward_lee.html,Council Members
+William Paget,/william_paget.html,Council Members
+William Parr,/william_parr.html,Council Members
+William Paulet,/william_paulet.html,Council Members
+William Petre,/william_petre.html,Council Members
+Robert Radcliffe,/robert_radcliffe.html,Council Members
+Richard Rich,/richard_rich.html,Council Members
+John Russell,/john_russell.html,Council Members
+Rafe Sadler,/rafe_sadler.html,Council Members
+William Lord Sands,/william_sands.html,Council Members
+Edward Seymour,/edward_seymour.html,Council Members
+Thomas Thirlby,/thomas_thirlby.html,Council Members
+Cuthbert Tunstall,/cuthbert_tunstall.html,Council Members
+Antony Wingfield,/antony_wingfield.html,Council Members
+Nicholas Wotton,/nicholas_wotton.html,Council Members
+Thomas Wriothesley,/thomas_wriothesley.html,Council Members
