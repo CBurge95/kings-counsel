@@ -2,12 +2,8 @@
 title: William Lord Sands
 layout: bio
 permalink: /william_sands.html
+bio-image: /images/sands.jpg
 ---
+##### Role(s)
 
-## Sir William Lord Sands
-
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#William Lord Sands" class="btn btn-custom">View Registers</a>
+##### Dates Active

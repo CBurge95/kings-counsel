@@ -2,12 +2,9 @@
 title: William Kingston
 layout: bio
 permalink: /william_kingston.html
+bio-image: /images/kingston.jpg
 ---
 
-## Sir William Kingston
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#William Kingston" class="btn btn-custom">View Registers</a>
+### Dates Active

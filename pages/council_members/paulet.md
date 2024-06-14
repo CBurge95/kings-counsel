@@ -2,12 +2,9 @@
 title: William Paulet
 layout: bio
 permalink: /william_paulet.html
+bio-image: /images/paulet.jpg
 ---
 
-## William Paulet
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#William Paulet" class="btn btn-custom">View Registers</a>
+### Dates Active

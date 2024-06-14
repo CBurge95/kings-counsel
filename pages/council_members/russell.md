@@ -2,12 +2,9 @@
 title: John Russell
 layout: bio
 permalink: /john_russell.html
+bio-image: /images/russell.jpg
 ---
 
-## John Russell, Earl of Bedford
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#John Russell, Earl of Bedford" class="btn btn-custom">View Registers</a>
+### Dates Active

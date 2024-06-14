@@ -2,12 +2,9 @@
 title: Cuthbert Tunstall
 layout: bio
 permalink: /cuthbert_tunstall.html
+bio-image: /images/tunstall.jpg
 ---
 
-## Cuthbert Tunstall, Bishop of Durham 
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Cuthbert Tunstall, Bishop of Durham" class="btn btn-custom">View Registers</a>
+### Dates Active

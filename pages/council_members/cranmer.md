@@ -2,12 +2,9 @@
 title: Thomas Cranmer
 layout: bio
 permalink: /thomas_cranmer.html
+bio-image: /images/cranmer.jpg
 ---
 
-## Thomas Cranmer, Archbishop of Canterbury
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Thomas Cranmer, Archbishop of Canterbury" class="btn btn-custom">View Registers</a>
+### Dates Active

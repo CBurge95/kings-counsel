@@ -2,12 +2,9 @@
 title: John Dudley
 layout: bio
 permalink: /john_dudley.html
+bio-image: /images/dudley.jpg
 ---
 
-## John Dudley
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#John Dudley" class="btn btn-custom">View Registers</a>
+### Dates Active

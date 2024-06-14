@@ -2,12 +2,9 @@
 title: Thomas Cheyney
 layout: bio
 permalink: /thomas_cheyney.html
+bio-image: /images/cheyney.jpg
 ---
 
-## Sir Thomas Cheyney
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Thomas Cheyney" class="btn btn-custom">View Registers</a>
+### Dates Active

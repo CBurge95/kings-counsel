@@ -2,12 +2,9 @@
 title: Thomas Howard
 layout: bio
 permalink: /thomas_howard.html
+bio-image: /images/howard.jpg
 ---
 
-## Thomas Howard, Duke of Norfolk
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Thomas Howard, Duke of Norfolk" class="btn btn-custom">View Registers</a>
+### Dates Active

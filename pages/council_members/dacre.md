@@ -2,12 +2,9 @@
 title: Robert Wriothesley
 layout: bio
 permalink: /robert_dacre.html
+bio-image: /images/dacre.jpg
 ---
 
-## Robert Dacre
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Robert Dacre" class="btn btn-custom">View Registers</a>
+### Dates Active

@@ -2,12 +2,8 @@
 title: John Baker
 layout: bio
 permalink: /john_baker.html
+bio-image: /images/baker.jpg
 ---
+### Role(s)
 
-## John Baker
-
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#John Baker" class="btn btn-custom">View Registers</a>
+### Dates Active

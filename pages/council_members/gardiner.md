@@ -2,12 +2,9 @@
 title: Stephen Gardiner
 layout: bio
 permalink: /stephen_gardiner.html
+bio-image: /images/gardiner.jpg
 ---
 
-## Stephen Gardiner, Bishop of Winchester
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Stephen Gardiner, Bishop of Winchester" class="btn btn-custom">View Registers</a>
+### Dates Active

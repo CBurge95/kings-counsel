@@ -2,12 +2,9 @@
 title: Thomas Thirlby
 layout: bio
 permalink: /thomas_thirlby.html
+bio-image: /images/thirlby.jpg
 ---
 
-## Thomas Thirlby
+##### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Thomas Thirlby" class="btn btn-custom">View Registers</a>
+##### Dates Active

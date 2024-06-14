@@ -2,12 +2,9 @@
 title: Henry FitzAlan
 layout: bio
 permalink: /henry_fitzalan.html
+bio-image: /images/fitzalan.jpg
 ---
 
-## Henry FitzAlan
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Henry FitzAlan" class="btn btn-custom">View Registers</a>
+### Dates Active

@@ -2,12 +2,8 @@
 title: Anthony Browne
 layout: bio
 permalink: /anthony_brown.html
+bio-image: /images/brown.jpg
 ---
+### Role(s)
 
-## Sir Anthony Browne
-
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Anthony Browne" class="btn btn-custom">View Registers</a>
+### Dates Active

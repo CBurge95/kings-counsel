@@ -2,12 +2,9 @@
 title: William Parr
 layout: bio
 permalink: /william_parr.html
+bio-image: /images/parr.jpg
 ---
 
-## William Parr
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#William Parr" class="btn btn-custom">View Registers</a>
+### Dates Active

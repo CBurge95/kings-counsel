@@ -2,12 +2,9 @@
 title: Richard Rich
 layout: bio
 permalink: /richard_rich.html
+bio-image: /images/rich.jpg
 ---
 
-## Richard Rich, Baron Rich
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Richard Riche" class="btn btn-custom">View Registers</a>
+### Dates Active

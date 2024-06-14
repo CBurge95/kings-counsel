@@ -2,12 +2,9 @@
 title: Anthony Wingfield
 layout: bio
 permalink: /antony_wingfield.html
+bio-image: /images/wingfield.jpg
 ---
 
-## Anthony Wingfield
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Anthony Wingfield" class="btn btn-custom">View Registers</a>
+### Dates Active

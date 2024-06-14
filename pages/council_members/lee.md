@@ -2,12 +2,9 @@
 title: Edward Lee
 layout: bio
 permalink: /edward_lee.html
+bio-image: /images/lee.jpg
 ---
 
-## Edward Lee
+### Role(s)
 
-#### Role(s)
-
-#### Dates Active
-
-<a href="{{ '/browse.html' | relative_url }}#Edward Lee" class="btn btn-custom">View Registers</a>
+### Dates Active
