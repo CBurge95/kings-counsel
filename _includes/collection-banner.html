@@ -23,8 +23,8 @@
             <a class="d-none d-md-block" href="{{ site.organization-link }}" target="_blank" rel="noopener">
                 <img id="home-banner-logo" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name | escape }} home" >
             </a>{% endif %}
-            <h1 class="display-4 text-white charm-bold" style="text-transform:capitalize;">{{ site.title }}</h1>
-            {% if site.tagline %}<p class="mb-0 charm-regular">{{ site.tagline }}</p>{% endif %}
+            <h1 class="display-4 text-white sedan-sc-regular" style="text-transform:capitalize;">{{ site.title }}</h1>
+            {% if site.tagline %}<p style="text-transform:uppercase; color:secondary;">{{ site.tagline }}</p>{% endif %}
         </div>
         {% unless site.data.theme.featured-image contains '/' %}
         <div class="position-absolute bottom-0 end-0 px-2 bg-dark bg-opacity-75">
@@ -55,8 +55,8 @@
                 <a class="d-none d-md-block" href="{{ site.organization-link }}" target="_blank" rel="noopener">
                     <img id="home-banner-logo" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name | escape }} home" >
                 </a>{% endif %}
-                <h1><a href="{{ site.baseurl }}/"  class="text-white charm-regular" style="text-transform:capitalize">{{ site.title }}</a></h1>
-                {% if site.tagline %}<p class="charm-regular">{{ site.tagline }}</p>{% endif %}
+                <h1><a href="{{ site.baseurl }}/"  class="text-white sedan-sc-regular" style="text-transform:capitalize;">{{ site.title }}</a></h1>
+                {% if site.tagline %}<p style="text-transform:uppercase;">{{ site.tagline }}</p>{% endif %}
             </div>
             {% unless site.data.theme.featured-image contains '/' %}
             <div class="position-absolute bottom-0 end-0 px-2 bg-dark bg-opacity-75">
