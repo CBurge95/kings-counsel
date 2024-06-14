@@ -1,6 +1,6 @@
 ---
 title: William Paget
-layout: page
+layout: bio
 permalink: /william_paget.html
 ---
 

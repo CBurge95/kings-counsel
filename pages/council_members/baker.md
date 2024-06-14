@@ -1,6 +1,6 @@
 ---
 title: John Baker
-layout: page
+layout: bio
 permalink: /john_baker.html
 ---
 

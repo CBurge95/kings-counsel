@@ -1,6 +1,6 @@
 ---
 title: William Kingston
-layout: page
+layout: bio
 permalink: /william_kingston.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: John Gage
-layout: page
+layout: bio
 permalink: /john_gage.html
 ---
 

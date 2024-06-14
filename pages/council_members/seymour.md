@@ -1,6 +1,6 @@
 ---
 title: Edward Seymour
-layout: page
+layout: bio
 permalink: /edward_seymour.html
 ---
 
@@ -11,3 +11,6 @@ permalink: /edward_seymour.html
 #### Dates Active
 
 <a href="{{ '/browse.html' | relative_url }}#Edward Seymour" class="btn btn-custom">View Registers</a>
+
+
+<h1> {{ page.title }}

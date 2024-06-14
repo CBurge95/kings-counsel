@@ -1,6 +1,6 @@
 ---
 title: Robert Radcliffe
-layout: page
+layout: bio
 permalink: /robert_radcliffe.html
 ---
 

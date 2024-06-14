@@ -1,6 +1,6 @@
 ---
 title: Edward Lee
-layout: page
+layout: bio
 permalink: /edward_lee.html
 ---
 

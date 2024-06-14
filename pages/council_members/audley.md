@@ -1,6 +1,6 @@
 ---
 title: Thomas Audley
-layout: page
+layout: bio
 permalink: /thomas_audley.html
 ---
 

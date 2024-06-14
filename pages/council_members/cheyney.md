@@ -1,6 +1,6 @@
 ---
 title: Thomas Cheyney
-layout: page
+layout: bio
 permalink: /thomas_cheyney.html
 ---
 

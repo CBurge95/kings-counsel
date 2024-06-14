@@ -1,6 +1,6 @@
 ---
 title: Henry FitzAlan
-layout: page
+layout: bio
 permalink: /henry_fitzalan.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: William Paulet
-layout: page
+layout: bio
 permalink: /william_paulet.html
 ---
 

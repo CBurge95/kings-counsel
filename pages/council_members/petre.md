@@ -1,6 +1,6 @@
 ---
 title: William Petre
-layout: page
+layout: bio
 permalink: /william_petre.html
 ---
 

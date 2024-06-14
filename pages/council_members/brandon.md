@@ -1,6 +1,6 @@
 ---
 title: Charles Brandon
-layout: page
+layout: bio
 permalink: /charles_brandon.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Richard Rich
-layout: page
+layout: bio
 permalink: /richard_rich.html
 ---
 

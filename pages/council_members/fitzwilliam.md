@@ -1,6 +1,6 @@
 ---
 title: William FitzWilliam
-layout: page
+layout: bio
 permalink: /william_fitzwilliam.html
 ---
 

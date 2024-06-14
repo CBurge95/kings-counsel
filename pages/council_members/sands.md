@@ -1,6 +1,6 @@
 ---
 title: William Lord Sands
-layout: page
+layout: bio
 permalink: /william_sands.html
 ---
 

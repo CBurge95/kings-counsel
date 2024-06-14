@@ -1,6 +1,6 @@
 ---
 title: William Parr
-layout: page
+layout: bio
 permalink: /william_parr.html
 ---
 

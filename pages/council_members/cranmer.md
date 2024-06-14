@@ -1,6 +1,6 @@
 ---
 title: Thomas Cranmer
-layout: page
+layout: bio
 permalink: /thomas_cranmer.html
 ---
 

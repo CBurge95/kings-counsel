@@ -1,6 +1,6 @@
 ---
 title: John Dudley
-layout: page
+layout: bio
 permalink: /john_dudley.html
 ---
 

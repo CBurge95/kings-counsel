@@ -1,6 +1,6 @@
 ---
 title: Stephen Gardiner
-layout: page
+layout: bio
 permalink: /stephen_gardiner.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cuthbert Tunstall
-layout: page
+layout: bio
 permalink: /cuthbert_tunstall.html
 ---
 

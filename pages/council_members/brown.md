@@ -1,6 +1,6 @@
 ---
 title: Anthony Browne
-layout: page
+layout: bio
 permalink: /anthony_brown.html
 ---
 

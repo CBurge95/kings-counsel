@@ -1,6 +1,6 @@
 ---
 title: Thomas Howard
-layout: page
+layout: bio
 permalink: /thomas_howard.html
 ---
 

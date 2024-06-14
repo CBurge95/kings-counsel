@@ -1,6 +1,6 @@
 ---
 title: Thomas Thirlby
-layout: page
+layout: bio
 permalink: /thomas_thirlby.html
 ---
 

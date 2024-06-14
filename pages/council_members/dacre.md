@@ -1,6 +1,6 @@
 ---
 title: Robert Wriothesley
-layout: page
+layout: bio
 permalink: /robert_dacre.html
 ---
 

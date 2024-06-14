@@ -1,6 +1,6 @@
 ---
 title: Nicholas Wotton
-layout: page
+layout: bio
 permalink: /nicholas_wotton.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Anthony Wingfield
-layout: page
+layout: bio
 permalink: /antony_wingfield.html
 ---
 
