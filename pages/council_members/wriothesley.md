@@ -5,6 +5,8 @@ permalink: /thomas_wriothesley.html
 bio-image: /images/wriothesley.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

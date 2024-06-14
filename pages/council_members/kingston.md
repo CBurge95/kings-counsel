@@ -5,6 +5,8 @@ permalink: /william_kingston.html
 bio-image: /images/kingston.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

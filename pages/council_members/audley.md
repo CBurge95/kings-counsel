@@ -5,6 +5,8 @@ permalink: /thomas_audley.html
 bio-image: /images/audley.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

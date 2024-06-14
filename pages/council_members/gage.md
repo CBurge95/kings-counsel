@@ -5,6 +5,8 @@ permalink: /john_gage.html
 bio-image: /images/gage.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

@@ -5,6 +5,8 @@ permalink: /thomas_howard.html
 bio-image: /images/howard.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

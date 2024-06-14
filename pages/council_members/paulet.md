@@ -5,6 +5,8 @@ permalink: /william_paulet.html
 bio-image: /images/paulet.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

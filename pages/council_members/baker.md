@@ -4,6 +4,8 @@ layout: bio
 permalink: /john_baker.html
 bio-image: /images/baker.jpg
 ---
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

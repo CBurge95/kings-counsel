@@ -4,6 +4,8 @@ layout: bio
 permalink: /edward_seymour.html
 bio-image: /images/seymour.jpg
 ---
-##### Role(s)
+#### Role(s)
 
-##### Dates Active
+#### Dates Active
+
+#### Biography

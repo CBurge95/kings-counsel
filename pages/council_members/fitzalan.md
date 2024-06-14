@@ -5,6 +5,8 @@ permalink: /henry_fitzalan.html
 bio-image: /images/fitzalan.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

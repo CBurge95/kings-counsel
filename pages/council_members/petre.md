@@ -5,6 +5,8 @@ permalink: /william_petre.html
 bio-image: /images/petre.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

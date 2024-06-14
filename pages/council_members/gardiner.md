@@ -5,6 +5,8 @@ permalink: /stephen_gardiner.html
 bio-image: /images/gardiner.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

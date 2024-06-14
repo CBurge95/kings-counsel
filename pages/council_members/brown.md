@@ -4,6 +4,8 @@ layout: bio
 permalink: /anthony_brown.html
 bio-image: /images/brown.jpg
 ---
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

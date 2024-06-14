@@ -5,6 +5,8 @@ permalink: /rafe_sadler.html
 bio-image: /images/sadler.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

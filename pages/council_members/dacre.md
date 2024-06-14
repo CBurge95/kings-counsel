@@ -5,6 +5,8 @@ permalink: /robert_dacre.html
 bio-image: /images/dacre.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

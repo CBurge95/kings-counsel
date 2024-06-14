@@ -5,6 +5,8 @@ permalink: /richard_rich.html
 bio-image: /images/rich.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

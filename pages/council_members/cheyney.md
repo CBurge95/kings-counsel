@@ -5,6 +5,8 @@ permalink: /thomas_cheyney.html
 bio-image: /images/cheyney.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

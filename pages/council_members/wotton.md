@@ -5,6 +5,8 @@ permalink: /nicholas_wotton.html
 bio-image: /images/wotton.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

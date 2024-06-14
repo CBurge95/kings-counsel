@@ -5,6 +5,8 @@ permalink: /cuthbert_tunstall.html
 bio-image: /images/tunstall.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

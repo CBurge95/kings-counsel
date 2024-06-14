@@ -5,6 +5,8 @@ permalink: /thomas_thirlby.html
 bio-image: /images/thirlby.jpg
 ---
 
-##### Role(s)
+#### Role(s)
 
-##### Dates Active
+#### Dates Active
+
+#### Biography

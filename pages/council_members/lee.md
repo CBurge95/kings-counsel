@@ -5,6 +5,8 @@ permalink: /edward_lee.html
 bio-image: /images/lee.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

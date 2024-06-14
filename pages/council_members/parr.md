@@ -5,6 +5,8 @@ permalink: /william_parr.html
 bio-image: /images/parr.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

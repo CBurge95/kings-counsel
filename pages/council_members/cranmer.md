@@ -5,6 +5,8 @@ permalink: /thomas_cranmer.html
 bio-image: /images/cranmer.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

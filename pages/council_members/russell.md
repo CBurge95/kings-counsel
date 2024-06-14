@@ -5,6 +5,8 @@ permalink: /john_russell.html
 bio-image: /images/russell.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

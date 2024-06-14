@@ -4,6 +4,8 @@ layout: bio
 permalink: /william_sands.html
 bio-image: /images/sands.jpg
 ---
-##### Role(s)
+#### Role(s)
 
-##### Dates Active
+#### Dates Active
+
+#### Biography

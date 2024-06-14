@@ -5,6 +5,8 @@ permalink: /william_fitzwilliam.html
 bio-image: /image/fitzwilliam.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography

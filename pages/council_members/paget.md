@@ -5,6 +5,8 @@ permalink: /william_paget.html
 bio-image: /images/paget.jpg
 ---
 
-### Role(s)
+#### Role(s)
 
-### Dates Active
+#### Dates active
+
+#### Biography
