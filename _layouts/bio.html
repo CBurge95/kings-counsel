@@ -2,18 +2,52 @@
 # generic page layout
 layout: default
 ---
-
 {% capture bio-image %}{{ page.bio-image }}{%endcapture%}
+{% capture caption %}{{page.caption}}{%endcapture%}
+{% assign neighbours = page.neighbours | split: ';' %}
 
 <div class="container my-4">
    <h1 class="text-center"> {{ page.title }} </h1>
     <div class="row p-5">
-        <div class="col-md-6"> {% include feature/image.html objectid=bio-image %} </div>
+        <div class="col-md-6" style="width:500px;"> {% include feature/image.html objectid=bio-image caption=caption%} </div>
         <div class="col-md-6">
             <div class="p-3" style="text-align:center;">
                 <a href="{{ '/browse.html' | relative_url }}#{{ page.title }}" class="btn btn-custom">View Registers</a>
             </div>
-            {{ content }}   
+            <div class="pt-4 pb-2 container border-bottom" style="font-size: medium;">
+                <h4>Role(s)</h4>
+                {% if page.role == true %}
+                {{page.role}}
+                {%else%}
+                <i>content in progress</i>
+                {%endif%}
+            </div>
+            <div class="pt-4 pb-2 container border-bottom" style="font-size: medium;">
+                <h4>Dates Active</h4>
+                {% if page.dates == true %}
+                {{page.dates}}
+                {%else%}
+                <i>content in progress</i>
+                {%endif%}
+            </div>
+            <div class="pt-4 pb-2 container border-bottom" style="font-size: medium;">
+                <h4>Biography</h4>
+                {% if page.bio == true %}
+                {{page.bio}}
+                {%else%}
+                <i>content in progress</i>
+                {%endif%}
+            </div>
+        </div>
+        <div class="card p-3 border-success" style="text-align:center;">
+            <div class="card-title"><h4>Explore Connected Members</h4></div>
+            <p class="card-text">
+                {% for neighbour in neighbours %}
+                <a class="btn btn-sm btn-custom m-1" href="{{ neighbour | relative_url }}" style="text-transform:uppercase; font-size:small;"> 
+                {{ neighbour | replace: '_', ' '}}
+                </a>{%endfor%}
+            </p>
         </div>
     </div>
 </div>
+
